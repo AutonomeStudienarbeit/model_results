@@ -1,0 +1,46 @@
+Model Summary: 290 layers, 21022656 parameters, 0 gradients, 48.5 GFLOPs
+               Class     Images     Labels          P          R     mAP@.5 mAP@.5:.95: 100%|██████████| 99/99 [00:39<00:00,  2.49it/s]
+                 all      12630      12630      0.887      0.975      0.923      0.859
+Geschwindigkeitsbegrenzung 20 km/h      12630         60      0.999          1      0.995      0.926
+Geschwindigkeitsbegrenzung 30 km/h      12630        720      0.995      0.999      0.995      0.933
+Geschwindigkeitsbegrenzung 50 km/h      12630        750      0.993      0.996      0.995      0.942
+Geschwindigkeitsbegrenzung 60 km/h      12630        450      0.966      0.973      0.992      0.925
+Geschwindigkeitsbegrenzung 70 km/h      12630        660      0.992      0.998      0.995       0.93
+Geschwindigkeitsbegrenzung 80 km/h      12630        630      0.938          1      0.993      0.927
+Geschwindigkeitsbegrenzung aufgehoben      12630        150          1      0.986      0.995      0.899
+Geschwindigkeitsbegrenzung 100 km/h      12630        450      0.989          1      0.995      0.932
+Geschwindigkeitsbegrenzung 120 km/h      12630        450      0.993       0.96      0.993      0.921
+       Überholverbot      12630        480      0.999          1      0.995      0.942
+Überholverbot für LKW      12630        660      0.992          1      0.995      0.922
+            Vorfahrt      12630        420      0.999      0.998      0.995      0.945
+     Vorfahrtsstraße      12630        690      0.999          1      0.995      0.947
+   Vorfahrt gewähren      12630        720      0.999          1      0.995      0.948
+          Stopschild      12630        270          1      0.983      0.995      0.948
+Verbot für Fahrzeuge aller Art      12630        210      0.999          1      0.995      0.916
+      Verbot für LKW      12630        150      0.989          1      0.995      0.958
+ Verbot der Einfahrt      12630        360      0.978          1      0.995        0.9
+        Gefahrstelle      12630        390      0.997      0.995      0.995      0.937
+         Kurve links      12630         60      0.439       0.75      0.455      0.436
+        Kurve rechts      12630         90      0.592          1      0.657      0.558
+          Doppelkuve      12630         90      0.991          1      0.995      0.938
+    Unebene Fahrbahn      12630        120          1      0.859      0.991      0.938
+     Schleudergefahr      12630        150       0.93          1      0.995      0.946
+Einseitig verengte Fahrbahn      12630         90      0.949          1      0.995      0.954
+           Baustelle      12630        480      0.981      0.979      0.994      0.953
+  Lichtzeichenanlage      12630        180      0.981      0.983      0.986      0.944
+    Fußgängerüberweg      12630         60      0.874      0.983      0.973      0.929
+    spielende Kinder      12630        150      0.996          1      0.995      0.949
+   Radfahrer kreuzen      12630         90       0.88          1      0.995      0.947
+Schnee- und Eisglätte      12630        150      0.988          1      0.995      0.902
+ Achtung Wildwechsel      12630        270      0.997          1      0.995      0.931
+Alle Streckenverbote aufgehoben      12630         60          1      0.918      0.979      0.864
+Vorgeschriebene Fahrtrichtung rechts      12630        210      0.634      0.995      0.893      0.832
+Vorgeschriebene Fahrtrichtung links      12630        120       0.37      0.975       0.37      0.336
+Vorgeschriebene Fahrtrichtung geradeaus      12630        390      0.997      0.994      0.995      0.933
+Vorgeschriebene Fahrtrichtung geradeaus oder rechts      12630        120      0.668          1      0.682      0.644
+Vorgeschriebene Fahrtrichtung geradeaus oder links      12630         60       0.33      0.983      0.426      0.369
+       Rechts vorbei      12630        690       0.92      0.967      0.946      0.863
+        links vorbei      12630         90      0.327      0.667      0.506      0.473
+        Kreisverkehr      12630         90      0.714      0.989      0.989      0.887
+Überholverbot aufgehoben      12630         60      0.992          1      0.995      0.818
+Überholverbot für LKW aufgehoben      12630         90      0.789          1      0.995       0.89
