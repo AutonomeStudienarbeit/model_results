@@ -1,0 +1,7 @@
+,Name,Runtime,epochs,AP,AR,F1
+0,faster_r-cnn_resnet50_fpn_train_GTSDB,2841,100,0.2352,0.2564,0.2453
+1,faster_r-cnn_resnet50_fpn_GTSRB-Transfer_GTSDB,313,10,0.058,0.0902,0.0706
+2,faster_r-cnn_resnet50_fpn_COCO-transfer_GTSRB,19478,10,0.9997,0.9459,0.9721
+3,faster_r-cnn_resnet50_fpn_COCO-transfer_GTSDB,315,10,0.1849,0.2298,0.2049
+4,faster_r-cnn_resnet50_fpn_random-init_GTSRB,19657,10,1.0,0.9411,0.9697
+5,faster_r-cnn_resnet50_fpn_random_init_train_GTSDB,410,10,0.001,0.0013,0.0011

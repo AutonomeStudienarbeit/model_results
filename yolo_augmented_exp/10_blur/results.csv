@@ -1,0 +1,36 @@
+,images,labels,p,r,map50,map
+all,120.0,180.0,0.41149720534600626,0.006464124111182934,0.02637230392156863,0.01899073529411765
+Geschwindigkeitsbegrenzung 20 km/h,120.0,2.0,0.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung 30 km/h,120.0,6.0,1.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung 50 km/h,120.0,12.0,1.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung 60 km/h,120.0,6.0,1.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung 70 km/h,120.0,6.0,1.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung 80 km/h,120.0,7.0,1.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung aufgehoben,120.0,4.0,0.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung 100 km/h,120.0,13.0,0.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung 120 km/h,120.0,17.0,1.0,0.0,0.0,0.0
+Überholverbot,120.0,4.0,1.0,0.0,0.0,0.0
+Überholverbot für LKW,120.0,16.0,1.0,0.0,0.0,0.0
+Vorfahrt,120.0,3.0,1.0,0.0,0.0,0.0
+Vorfahrtsstraße,120.0,13.0,1.0,0.07692307692307693,0.53845,0.43076
+Vorfahrt gewähren,120.0,11.0,0.0,0.0,0.0,0.0
+Stopschild,120.0,7.0,0.9909049817642139,0.14285714285714285,0.35820833333333346,0.2149250000000001
+Verbot für Fahrzeuge aller Art,120.0,1.0,1.0,0.0,0.0,0.0
+Verbot der Einfahrt,120.0,5.0,0.0,0.0,0.0,0.0
+Gefahrstelle,120.0,8.0,0.0,0.0,0.0,0.0
+Kurve links,120.0,1.0,0.0,0.0,0.0,0.0
+Kurve rechts,120.0,1.0,0.0,0.0,0.0,0.0
+Unebene Fahrbahn,120.0,3.0,1.0,0.0,0.0,0.0
+Schleudergefahr,120.0,4.0,0.0,0.0,0.0,0.0
+Baustelle,120.0,2.0,1.0,0.0,0.0,0.0
+Lichtzeichenanlage,120.0,2.0,0.0,0.0,0.0,0.0
+Fußgängerüberweg,120.0,2.0,0.0,0.0,0.0,0.0
+spielende Kinder,120.0,1.0,0.0,0.0,0.0,0.0
+Schnee- und Eisglätte,120.0,2.0,0.0,0.0,0.0,0.0
+Alle Streckenverbote aufgehoben,120.0,1.0,0.0,0.0,0.0,0.0
+Vorgeschriebene Fahrtrichtung rechts,120.0,3.0,0.0,0.0,0.0,0.0
+Vorgeschriebene Fahrtrichtung links,120.0,2.0,0.0,0.0,0.0,0.0
+Vorgeschriebene Fahrtrichtung geradeaus,120.0,5.0,0.0,0.0,0.0,0.0
+Vorgeschriebene Fahrtrichtung geradeaus oder rechts,120.0,2.0,0.0,0.0,0.0,0.0
+Rechts vorbei,120.0,7.0,0.0,0.0,0.0,0.0
+Überholverbot aufgehoben,120.0,1.0,0.0,0.0,0.0,0.0

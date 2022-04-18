@@ -1,0 +1,36 @@
+,images,labels,p,r,map50,map
+all,120.0,180.0,0.09219187675070027,0.031065503124326654,0.06509782709447413,0.04299079494949495
+Geschwindigkeitsbegrenzung 20 km/h,120.0,2.0,0.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung 30 km/h,120.0,6.0,0.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung 50 km/h,120.0,12.0,0.14285714285714285,0.08333333333333333,0.09356969696969696,0.07485575757575756
+Geschwindigkeitsbegrenzung 60 km/h,120.0,6.0,0.125,0.16666666666666666,0.21729,0.17383200000000001
+Geschwindigkeitsbegrenzung 70 km/h,120.0,6.0,0.2,0.16666666666666666,0.24866400000000002,0.19893120000000003
+Geschwindigkeitsbegrenzung 80 km/h,120.0,7.0,0.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung aufgehoben,120.0,4.0,0.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung 100 km/h,120.0,13.0,0.0,0.0,0.0,0.0
+Geschwindigkeitsbegrenzung 120 km/h,120.0,17.0,0.0,0.0,0.0,0.0
+Überholverbot,120.0,4.0,0.0,0.0,0.0,0.0
+Überholverbot für LKW,120.0,16.0,0.0,0.0,0.0,0.0
+Vorfahrt,120.0,3.0,0.0,0.0,0.0,0.0
+Vorfahrtsstraße,120.0,13.0,1.0,0.15384615384615385,0.5769090909090909,0.5192181818181818
+Vorfahrt gewähren,120.0,11.0,0.0,0.0,0.0,0.0
+Stopschild,120.0,7.0,0.6666666666666666,0.2857142857142857,0.47689333333333317,0.31484988888888876
+Verbot für Fahrzeuge aller Art,120.0,1.0,0.0,0.0,0.0,0.0
+Verbot der Einfahrt,120.0,5.0,0.0,0.0,0.0,0.0
+Gefahrstelle,120.0,8.0,0.0,0.0,0.0,0.0
+Kurve links,120.0,1.0,0.0,0.0,0.0,0.0
+Kurve rechts,120.0,1.0,0.0,0.0,0.0,0.0
+Unebene Fahrbahn,120.0,3.0,0.0,0.0,0.0,0.0
+Schleudergefahr,120.0,4.0,0.0,0.0,0.0,0.0
+Baustelle,120.0,2.0,0.0,0.0,0.0,0.0
+Lichtzeichenanlage,120.0,2.0,0.0,0.0,0.0,0.0
+Fußgängerüberweg,120.0,2.0,0.0,0.0,0.0,0.0
+spielende Kinder,120.0,1.0,0.0,0.0,0.0,0.0
+Schnee- und Eisglätte,120.0,2.0,0.0,0.0,0.0,0.0
+Alle Streckenverbote aufgehoben,120.0,1.0,0.0,0.0,0.0,0.0
+Vorgeschriebene Fahrtrichtung rechts,120.0,3.0,0.0,0.0,0.0,0.0
+Vorgeschriebene Fahrtrichtung links,120.0,2.0,0.0,0.0,0.0,0.0
+Vorgeschriebene Fahrtrichtung geradeaus,120.0,5.0,1.0,0.2,0.6,0.18
+Vorgeschriebene Fahrtrichtung geradeaus oder rechts,120.0,2.0,0.0,0.0,0.0,0.0
+Rechts vorbei,120.0,7.0,0.0,0.0,0.0,0.0
+Überholverbot aufgehoben,120.0,1.0,0.0,0.0,0.0,0.0

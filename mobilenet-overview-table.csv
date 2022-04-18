@@ -1,0 +1,7 @@
+,Unnamed: 0,Name,Runtime,epochs,AP,AP_IoU=0.50:0.95,AP_IoU=0.75,AR_IoU=0.50:0.95_maxDets=1,AR_IoU=0.50:0.95_maxDets=10,AR,F1
+0,0,faster_r-cnn_resnet50_fpn_train_GTSDB,1459,100,0.0723,0.0357,0.0304,0.0534,0.0673,0.0673,0.0697
+1,1,faster_r-cnn_mobileNet_GTSRB-transfer_GTSDB,158,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,2,faster_r-cnn_mobileNet_COCO-transfer_GTSDB,158,10,0.0701,0.0414,0.0497,0.0479,0.0614,0.0614,0.0655
+3,3,faster_r-cnn_mobileNet_random-init_GTSRB,3585,10,1.0,0.9553,1.0,0.973,0.973,0.973,0.9863
+4,4,faster_r-cnn_mobileNet_random-init_GTSDB,159,10,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,5,faster_r-cnn_mobileNet_COCO-transfer_GTSRB,3573,10,1.0,0.9541,1.0,0.9727,0.9727,0.9727,0.9862
